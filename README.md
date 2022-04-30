@@ -11,7 +11,7 @@ Website designed to help people write down and save tasks for various hours of t
 * BOOTSTRAP
 
 ## Website
-
+https://andrewfaugno.github.io/day-scheduler/
 
 ## Deployed Application
 
